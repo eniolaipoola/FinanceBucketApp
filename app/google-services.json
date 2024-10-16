@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271013352918",
+    "project_id": "financemanagementtracker",
+    "storage_bucket": "financemanagementtracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271013352918:android:ea9f12239a69eda776c077",
+        "android_client_info": {
+          "package_name": "com.tei.financetracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_j5_NtVo_DK3l1-p-zAWOxcDA7kBzSsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
